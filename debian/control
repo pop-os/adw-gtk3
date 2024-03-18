@@ -1,0 +1,18 @@
+Source: adw-gtk3
+Section: utils
+Priority: optional
+Maintainer: Michael Murphy <michael@mmurphy.dev>
+Build-Depends:
+    debhelper-compat (=13),
+    ninja-build,
+    git,
+    meson,
+    sassc
+Standards-Version: 4.6.2
+Homepage: https://github.com/pop-os/adw-gtk3
+
+Package: adw-gtk3
+Architecture: all
+Depends: ${misc:Depends}
+Description: libadwaita theme ported to GTK3
+ libadwaita theme ported to GTK3

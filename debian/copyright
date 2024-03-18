@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: adw-gtk3
+Upstream-Contact: Michael Murphy <michael@mmurphy.dev>
+Source: https://github.com/pop-os/adw-gtk3
+Files: *
+Copyright: lassekongo83
+License: LGPL-2.1
